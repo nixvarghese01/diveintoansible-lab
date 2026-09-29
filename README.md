@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [spurin/diveintoansible-lab](https://github.com/spurin/diveintoansible-lab) as a reference for **an Ansible lab environment**. Hands-on lab for Ansible configuration management.
+> All credit for the content goes to the original authors.
+
 ## Dive Into Ansible Course Lab
 
 [![Follow](https://shields.io/twitter/follow/jamesspurin?label=Follow)](https://twitter.com/jamesspurin)
